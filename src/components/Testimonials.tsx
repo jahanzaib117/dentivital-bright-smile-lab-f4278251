@@ -7,21 +7,21 @@ const Testimonials = () => {
     {
       name: "Jennifer K.",
       role: "Verified Customer",
-      image: "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=800&q=80",
       stars: 5,
       quote: "After trying numerous whitening products, Dentivital is the only one that delivered the results I was looking for without sensitivity. My teeth are visibly whiter after just one week!"
     },
     {
       name: "Marcus L.",
       role: "Verified Customer",
-      image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&w=800&q=80",
       stars: 5,
       quote: "As someone who drinks a lot of coffee, I was amazed at how well these strips removed my stains. They're comfortable to wear and don't slide around like other brands I've tried."
     },
     {
       name: "Sophia T.",
       role: "Verified Customer",
-      image: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80",
       stars: 4,
       quote: "My dentist was impressed with the results from Dentivital! The whitening is even and natural-looking, not fake or chalky. Will definitely be purchasing again."
     }

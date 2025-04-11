@@ -8,19 +8,19 @@ const HowItWorks = () => {
       number: "01",
       title: "Apply the Strips",
       description: "Place the gel side of the strip against your teeth and press gently to secure.",
-      image: "https://images.unsplash.com/photo-1606265752439-1f19106af98a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
     },
     {
       number: "02",
       title: "Wait 30 Minutes",
       description: "Let the advanced whitening formula work its magic on your teeth.",
-      image: "https://images.unsplash.com/photo-1608229191360-7064b0afa639?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=800&q=80"
     },
     {
       number: "03",
       title: "Remove & Rinse",
       description: "Peel off the strips and rinse your mouth with water to remove any excess gel.",
-      image: "https://images.unsplash.com/photo-1581963678295-8dee522eadbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80"
     }
   ];
 

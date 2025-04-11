@@ -7,15 +7,15 @@ const BeforeAfter = () => {
     {
       name: "Sarah M.",
       days: 14,
-      beforeImage: "https://images.unsplash.com/photo-1600265752439-1f19106af98a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      afterImage: "https://images.unsplash.com/photo-1581963678295-8dee522eadbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      beforeImage: "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=800&q=80",
+      afterImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
       testimonial: "I never thought I could achieve such dramatic results at home. My smile is noticeably whiter!"
     },
     {
       name: "Michael T.",
       days: 7,
-      beforeImage: "https://images.unsplash.com/photo-1600265752439-1f19106af98a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      afterImage: "https://images.unsplash.com/photo-1581963678295-8dee522eadbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      beforeImage: "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=800&q=80",
+      afterImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
       testimonial: "As someone with sensitive teeth, I was nervous to try whitening products. Dentivital was gentle and effective."
     }
   ];
