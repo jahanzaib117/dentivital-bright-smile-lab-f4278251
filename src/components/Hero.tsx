@@ -43,9 +43,9 @@ const Hero = () => {
                 <div className="p-6 flex flex-col items-center">
                   <div className="bg-dentivital-50 rounded-lg p-4 w-full mb-4">
                     <img 
-                      src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80" 
+                      src="/lovable-uploads/8dd07b37-4b4f-4fa8-87a8-8ae9ce4c156f.png" 
                       alt="Dentivital Whitening Strips" 
-                      className="w-full h-auto rounded-md object-cover"
+                      className="w-full h-auto rounded-md object-contain"
                     />
                   </div>
                   <h3 className="text-xl font-bold mb-2">Premium Whitening Kit</h3>
